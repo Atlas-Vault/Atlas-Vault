@@ -1,5 +1,4 @@
-## Hi there 👋
-### Hi there 👋
+## Hi there 👋 
 
 I'm **Waled Noman**, an AI student in Jeddah building **sovereign intelligence infrastructure**.
 
