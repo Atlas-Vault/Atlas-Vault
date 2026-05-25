@@ -18,4 +18,4 @@ Git · Linux · VS Code · Jupyter
 **Get in Touch**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/waled-noman-b61738411/)
-- 📫 atlas.vault@proton.me
+- 📫 waledmnoman@gmail.com
